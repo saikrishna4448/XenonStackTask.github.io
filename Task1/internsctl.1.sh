@@ -1,4 +1,4 @@
-.TH internsctl 1 "10 July 2023" "0.1.0" "Custom Command"
+.TH internsctl 1 "10 October 2020" "0.1.0" "Custom Command"
 .SH NAME 
 "internsctl"
 .SH SYNOPSIS
@@ -23,4 +23,4 @@ Display cpu and memory information, create new user, list all users, list all us
 .SH BUGS
 No known bugs. 
 .SH AUTHOR
-Shikha Rajput
+Sai Krishna
